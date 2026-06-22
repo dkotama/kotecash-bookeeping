@@ -27,7 +27,7 @@ Astro + Hono + Cloudflare D1, Tailwind, vitest. No separate backend service — 
 
 The fastest way to get a running instance. Provisions the D1 database, applies migrations, builds, and deploys — all on the free plan.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SapiBot/kotecash)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dkotama/kotecash-bookeeping)
 
 > Replace the repo URL above with your own once published. The button reads `wrangler.toml` + `package.json` from the repo to auto-provision D1 and run migrations on deploy.
 
